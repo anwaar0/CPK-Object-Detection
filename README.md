@@ -24,5 +24,8 @@ performs efficiently through extensive experiments in five different datasets un
 
 
 # Setup
-YOLOv5
+For Self supervised domain adaptation experiments, follow
+`https://github.com/MohamedTEV/DACA`
+
+For supervised CPK experiments, follow YOLOv5
 `https://github.com/ultralytics/yolov5`
