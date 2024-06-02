@@ -29,3 +29,7 @@ For Self supervised domain adaptation experiments, follow
 
 For supervised CPK experiments, follow YOLOv5
 `https://github.com/ultralytics/yolov5`
+
+# Datasets
+For Self supervised domain adaptation, downlaod and use the dataset given at  `https://github.com/MohamedTEV/DACA`
+For supervised CPK, Use Planeat and Mixture dataset given in the dataset section
