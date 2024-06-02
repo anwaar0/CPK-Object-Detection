@@ -20,3 +20,9 @@ to train the target and source domains synchronously. UDA method
 uses target data, extracts the high-confidence region, crop and applies augmentation
 techniques to these regions, and adapts UDA for OD. The proposed CPK
 performs efficiently through extensive experiments in five different datasets under cross-weather, cross-camera, and synthetic-to-real cases, outperforming the existing UDA results by the margin of 10.9% of mean Average Precision (mAP).
+
+
+
+# Setup
+## YOLOv5
+`https://github.com/ultralytics/yolov5`
