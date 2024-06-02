@@ -24,5 +24,5 @@ performs efficiently through extensive experiments in five different datasets un
 
 
 # Setup
-## YOLOv5
+YOLOv5
 `https://github.com/ultralytics/yolov5`
